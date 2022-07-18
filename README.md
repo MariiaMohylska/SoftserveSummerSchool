@@ -1,6 +1,6 @@
 # SoftserveSummerSchool
 
-This repository contains scripts for home task about bash.
+This repository contains scripts for Bash home task.
 
 Name | Action | Arguments
 --- | --- | ---
